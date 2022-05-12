@@ -10,7 +10,7 @@ js\               - JavaScript utilisé.
 vendor\           - code de template Bootstrap utilisé.
 index.html        - Page HTML à ouvrir dans le navigateur Web.
 
-###Comment ouvrir le CV
+###Comment ouvrir le PortFolio
 ================================================================================
 - Il suffit tout simplement de se rendre sur le lien suivant: https://redoren28.github.io/PortFolio/
 
