@@ -4,11 +4,11 @@ Bienvenue sur mon Portfolio !
 
 ##Structure
 ================================================================================
-css\              - Feuilles de style CSS.
-img\              - Images utilisés.
-js\               - JavaScript utilisé.
-vendor\           - code de template Bootstrap utilisé.
-index.html        - Page HTML à ouvrir dans le navigateur Web.
+- css\              - Feuilles de style CSS.
+- img\              - Images utilisés.
+- js\               - JavaScript utilisé.
+- vendor\           - code de template Bootstrap utilisé.
+- index.html        - Page HTML à ouvrir dans le navigateur Web.
 
 ###Comment ouvrir le PortFolio
 ================================================================================
