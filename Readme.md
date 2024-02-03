@@ -1,19 +1,15 @@
-#Portfolio
-================================================================================
+# Portfolio
 Bienvenue sur mon Portfolio !
 
-##Structure
-================================================================================
+## Structure
 - css\              - Feuilles de style CSS.
 - img\              - Images utilisés.
 - js\               - JavaScript utilisé.
 - vendor\           - code de template Bootstrap utilisé.
 - index.html        - Page HTML à ouvrir dans le navigateur Web.
 
-###Comment ouvrir le PortFolio
-================================================================================
+### Comment ouvrir le PortFolio
 - Il suffit tout simplement de se rendre sur le lien suivant: https://redoren28.github.io/PortFolio/
 
-####Crédits
-================================================================================
+#### Crédits
 © Chevrier Clément. Tous droits réservés.
